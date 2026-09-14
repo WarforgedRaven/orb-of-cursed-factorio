@@ -24,4 +24,7 @@ Main modpack for Orb of Meat Cursed Factorio
 1. ...
 
 ## Finished mods
+1. ...
+   
+## Mods in info.json
 1. [Silly Asteroid Grabbers](https://github.com/WarforgedRaven/silly-asteroid-grabbers)
