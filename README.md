@@ -6,7 +6,10 @@ Main modpack for Orb of Meat Cursed Factorio
 2. Science
     1. Different names
     2. Playlist (each science has a different sound effect)
-3. Research ended jumpscare
+    3. Consumable science (linked to happiness bar?)
+3. Research 
+    1. Finished jumpscare
+    2. Twitch chat integration
 4. Negative quality (up to -100%)
     5. Budget
     6. Cheap
@@ -18,13 +21,13 @@ Main modpack for Orb of Meat Cursed Factorio
 8. Demon core (drains life but infinite fuel?)
 
 ## Accepted Ideas
-1. ...
+1. None
 
 ## Mods in work
-1. ...
+1. None
 
 ## Finished mods
-1. ...
+1. None
    
 ## Mods in info.json
 1. [Silly Asteroid Grabbers](https://github.com/WarforgedRaven/silly-asteroid-grabbers)
