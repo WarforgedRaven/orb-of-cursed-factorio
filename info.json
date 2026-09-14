@@ -1,0 +1,14 @@
+{
+    "name": "orb-of-cursed-factorio",
+    "version": "2.1.1",
+    "title": "Orb of Cursed Factorio",
+    "description": "Main modpack for Orb of Meat's Cursed Factorio",
+    "author": "Warforged_Raven",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base >= 2.0",
+        "space-age >= 2.0",
+
+        "silly-asteroid-grabbers >= 2.1.2"
+    ]
+}
