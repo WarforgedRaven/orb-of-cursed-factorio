@@ -1,5 +1,5 @@
 # Orb of Cursed Factorio
-Main modpack for Orb of Meat Cursed Factorio.
+Main modpack for Orb of Meat's community's Cursed Factorio.
 
 ### Check the Wiki for more information on proposed mods
 
