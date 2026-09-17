@@ -18,14 +18,16 @@ Main modpack for Orb of Meat Cursed Factorio
 * Demon core (drains life but infinite fuel?)
 * Biters with floaties can cross water
 
+#### See mod-description for more information on mods
+
 ## Accepted Ideas
-* None
+* negative-quality
 
 ## Mods in work
 * None
 
 ## Finished mods
-* None
+* silly-asteroid-grabbers
    
 ## Mods in info.json
 * [Silly Asteroid Grabbers](https://github.com/WarforgedRaven/silly-asteroid-grabbers)
