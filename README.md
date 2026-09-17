@@ -1,5 +1,7 @@
 # orb-of-cursed-factorio
-Main modpack for Orb of Meat Cursed Factorio
+Main modpack for Orb of Meat Cursed Factorio.
+
+Check the Wiki for more information on ideas, accepted mods, mods currently worked on, and finished
 
 ### Want to participate?
-join us at: This is still a placeholder
+Join us at: This is still a placeholder
