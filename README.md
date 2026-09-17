@@ -11,10 +11,6 @@ Main modpack for Orb of Meat Cursed Factorio
     1. Finished jumpscare
     2. Twitch chat integration
 4. Negative quality (up to -100%)
-    5. Budget
-    6. Cheap
-    7. Knockoff
-    8. Trash
 5. Bullshit AI feature (soundbytes)
 6. Cutting down trees => spider jumpscare
 7. Captain planet & Lorax
