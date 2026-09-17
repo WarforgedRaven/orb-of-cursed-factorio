@@ -2,28 +2,30 @@
 Main modpack for Orb of Meat Cursed Factorio
 
 ## Ideas
-1. Happiness bar
-2. Science
-    1. Different names
-    2. Playlist (each science has a different sound effect)
-    3. Consumable science (linked to happiness bar?)
-3. Research 
-    1. Finished jumpscare
-    2. Twitch chat integration
-4. Negative quality (up to -100%)
-5. Bullshit AI feature (soundbytes)
-6. Cutting down trees => spider jumpscare
-7. Captain planet & Lorax
-8. Demon core (drains life but infinite fuel?)
+* Happiness bar
+* Science
+    * Different names
+    * Playlist (each science has a different sound effect)
+    * Consumable science (linked to happiness bar?)
+    * Happy science (needs to do happy stuff to craft the science)
+* Research 
+    * Finished jumpscare soundbyte
+    * Twitch chat integration
+* Negative quality (up to -100%)
+* Bullshit AI feature (soundbytes)
+* Cutting down trees => spider jumpscare
+* Destroying trees can spawn Captain planet & Lorax
+* Demon core (drains life but infinite fuel?)
+* Biters with floaties can cross water
 
 ## Accepted Ideas
-1. None
+* None
 
 ## Mods in work
-1. None
+* None
 
 ## Finished mods
-1. None
+* None
    
 ## Mods in info.json
-1. [Silly Asteroid Grabbers](https://github.com/WarforgedRaven/silly-asteroid-grabbers)
+* [Silly Asteroid Grabbers](https://github.com/WarforgedRaven/silly-asteroid-grabbers)
