@@ -6,4 +6,4 @@ Main modpack for Orb of Meat's community's Cursed Factorio.
 ---
 
 #### Want to participate?
-Join us at: This is still a placeholder
+Join us in the Cursed Factorio mod development channel
